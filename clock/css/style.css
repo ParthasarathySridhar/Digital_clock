@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #fae5df;
+}
+.container{
+    font-family: Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top: 40%;
+    margin-left: 30%;
+    transform: translate(-50%, -50%)l;
+    font-size: 60px;
+    border: 10px solid red;
+    padding: 30px;
+    border-radius: 80px;
+    background-color:coral;
+}
